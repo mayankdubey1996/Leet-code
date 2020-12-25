@@ -20,3 +20,6 @@ Output: [0,1]
 
 ### solution1.py ### 
 Brute force approach
+
+### solution2.py ### 
+optimized approach
